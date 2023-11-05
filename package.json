@@ -1,0 +1,14 @@
+{
+  "name": "reto-de-programaci-n-angel23v",
+  "version": "1.0.0",
+  "description": "Reto de Programacion",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Angel Vazquez",
+  "license": "ISC"
+}
